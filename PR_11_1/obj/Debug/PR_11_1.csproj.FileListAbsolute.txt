@@ -1,0 +1,10 @@
+D:\123рабочий стол\PR_11_1\bin\Debug\PR_11_1.exe.config
+D:\123рабочий стол\PR_11_1\bin\Debug\PR_11_1.exe
+D:\123рабочий стол\PR_11_1\bin\Debug\PR_11_1.pdb
+D:\123рабочий стол\PR_11_1\obj\Debug\PR_11_1.csproj.AssemblyReference.cache
+D:\123рабочий стол\PR_11_1\obj\Debug\PR_11_1.Form1.resources
+D:\123рабочий стол\PR_11_1\obj\Debug\PR_11_1.Properties.Resources.resources
+D:\123рабочий стол\PR_11_1\obj\Debug\PR_11_1.csproj.GenerateResource.cache
+D:\123рабочий стол\PR_11_1\obj\Debug\PR_11_1.csproj.CoreCompileInputs.cache
+D:\123рабочий стол\PR_11_1\obj\Debug\PR_11_1.exe
+D:\123рабочий стол\PR_11_1\obj\Debug\PR_11_1.pdb
